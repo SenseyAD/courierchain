@@ -1,7 +1,7 @@
 :root {
     --bg-color: #e5f2ee;
-    --button-color: #4a8273;
-    --forms-color: #7dbfb5;
+    --button-color: #df0d0d;
+    --forms-color: #ce9651;
     --text-color: #eaedf0;
 }
 
@@ -98,7 +98,7 @@ header a:hover {
 
 #showcase {
     min-height: 500px;
-    background: url(../images/mac.jpg) no-repeat 0 -50px;
+    background: url(../images/supplychain2.jpeg) no-repeat 0 -50px;
     text-align: center;
     color: var(--button-color);
 }
