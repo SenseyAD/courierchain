@@ -1,5 +1,5 @@
 :root {
-    --bg-color: #857898;
+    --bg-color: #9f90b5;
     --button-color: #161222;
     --forms-color: #5174ce;
     --text-color: #eaedf0;
@@ -107,6 +107,7 @@ header a:hover {
     margin-top: 200px;
     font-size: 55px;
     margin-bottom: 10px;
+    text-shadow: #e6e6e6 2px 2px 3px;
 }
 
 #showcase p {
